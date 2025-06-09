@@ -1,0 +1,45 @@
+jdk, jre and jvm differences
+
+jdk 1.8 features -> very small codes 
+
+predicate bipredicate consumer biconsumer function bifunction functional interface
+
+parallel stream differences with stream -> reason where to use it
+
+lambda expression
+
+purpose of optional class
+
+opps concepts -> anything
+
+abstract and interface -> difference when and why to use, how to choose 
+
+collection and map -> hierarchy and everything where to use and why, with differences betweenevery classes and interfaces, sorted , duplicate, faster
+hashmap, hashtable, concurrent hashmap -> when to use ans what is differences,
+equals and == method hashcode method , comparator and comparable
+how set avoid duplication -> deeply internal working
+
+exception -> hierarchy from throwable every thing don't leave error study that too
+runnable and throwable , try catch finally throw throws  
+
+finally, final, finalize difference
+
+protected with finalize -> important
+
+all garabage collection, daemon thread
+
+spring -> need latest features, mvc, aoc, di-> types, annotation
+
+Very deep if i comment any annotation what will be the exception
+
+properties.application -> file everything
+
+difference b/t jpa and crud repository -> their methods too, differences everything
+
+eureka server -> purpose and working
+
+Complete Spring Boot -> features and everything you can think of
+
+authentication -> architecture also about jwt architecture(diagram)
+
+dispatcher servlet/controller in spring bro you don't know that and a/c sir you don't know anything
